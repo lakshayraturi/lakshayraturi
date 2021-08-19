@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 - 💅 People I follow: @bizz84, @mschwarzmuller, @bradtraversy, @iampawan, @shantanuuchak
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **ux**, **development**, **flutter**, **development**, **brand thinking**
-- 📫 Reach me: [twitter.com/RaturiLakshay](https://twitter.com/caneco)
+- 📫 Reach me: [twitter.com/RaturiLakshay](https://twitter.com/RaturiLakshay)
 - ⚡️ Fun fact: I'm a VolleyBall professional player
